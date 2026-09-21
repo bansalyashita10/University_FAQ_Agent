@@ -1,4 +1,5 @@
 <div align="center">
+
 # 🎓 University FAQ Agent
 
 ### AI-Powered University FAQ Assistant with Voice Interaction
@@ -8,6 +9,14 @@
 <img src="https://img.shields.io/badge/Microsoft%20Foundry-5E5CE6?style=for-the-badge&logo=microsoft&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Azure%20AI%20Speech-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI-Powered-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Voice%20Enabled-success?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -20,14 +29,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 </p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AI-Powered-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Voice%20Enabled-success?style=for-the-badge"/>
-
-</p>
+</div>
 
 ## ✨ Features
 
