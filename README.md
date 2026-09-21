@@ -57,6 +57,15 @@
 
 ---
 
+## 🌐 Live Demo
+
+**Vercel Deployment:**
+https://university-faq-agent.vercel.app/
+
+The University FAQ Agent is deployed and accessible through the live web application.
+
+---
+
 ## 🏗️ Architecture
 
 ```text
