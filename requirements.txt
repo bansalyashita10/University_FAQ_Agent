@@ -1,8 +1,6 @@
 Flask
 flask-cors
-gunicorn
 python-dotenv
-azure-cognitiveservices-speech
-azure-ai-projects
-azure-identity
 openai
+azure-cognitiveservices-speech
+gunicorn
